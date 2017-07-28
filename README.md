@@ -215,3 +215,4 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Magento on Stackoverflow](http://stackoverflow.com/questions/tagged/magento)
   * [Magento on Reddit](http://www.reddit.com/r/magento)
   * [Magento The Right Way](https://magentotherightway.com/)
+  *[10 Practical Rules to Build High Quality Magento 2 Module](https://medium.com/@maxpronko/10-practical-rules-to-build-high-quality-magento-2-module-e6fe2c9461ac)
